@@ -88,6 +88,12 @@ ENV/
 # Rope project settings
 .ropeproject
 
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
 # MDict
 mdict/
 mdx/
